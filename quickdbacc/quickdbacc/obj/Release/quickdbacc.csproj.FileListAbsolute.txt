@@ -1,0 +1,14 @@
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Release\quickdbacc.exe.config
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Release\quickdbacc.exe
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Release\quickdbacc.pdb
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\MainWindow.baml
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\MainWindow.g.cs
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\App.g.cs
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\quickdbacc_MarkupCompile.cache
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\quickdbacc.g.resources
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\quickdbacc.Properties.Resources.resources
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\quickdbacc.csproj.GenerateResource.Cache
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\quickdbacc.exe
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Release\quickdbacc.pdb
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Release\MySql.Data.dll
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Release\MySql.Data.xml

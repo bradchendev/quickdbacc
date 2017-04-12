@@ -1,0 +1,13 @@
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Debug\quickdbacc.exe.config
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Debug\quickdbacc.exe
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\bin\Debug\quickdbacc.pdb
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc.csprojResolveAssemblyReference.cache
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\MainWindow.baml
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\MainWindow.g.cs
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\App.g.cs
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc_MarkupCompile.cache
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc.g.resources
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc.Properties.Resources.resources
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc.csproj.GenerateResource.Cache
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc.exe
+C:\Users\ctche\Documents\GitHub\quickdbacc\quickdbacc\quickdbacc\obj\Debug\quickdbacc.pdb
